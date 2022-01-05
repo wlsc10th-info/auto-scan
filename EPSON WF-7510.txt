@@ -1,0 +1,29 @@
+4395  ICAP_BITDEPTH             (4, (1, 1, [1, 8]))
+4380  ICAP_BITORDER             (4, (0, 0, [1]))
+4353  ICAP_BRIGHTNESS           {'StepSize': 1, 'DefaultValue': 0, 'CurrentValue': 0, 'MaxValue': 1000, 'MinValue': 64536}
+256   ICAP_COMPRESSION          (4, (0, 0, [0]))
+4355  ICAP_CONTRAST             {'StepSize': 1, 'DefaultValue': 0, 'CurrentValue': 0, 'MaxValue': 1000, 'MinValue': 64536}
+4358  ICAP_FILTER               (4, [4])
+4372  ICAP_FRAMES               (8, (0.0, 0.0, 11.45875, 17.0))
+4360  ICAP_GAMMA                (7, 2.13107)
+4361  ICAP_HALFTONES            (9, (0, 0, ['\xb5L']))
+4364  ICAP_IMAGEFILEFORMAT      (4, (0, 0, [2]))
+4382  ICAP_LIGHTPATH            (4, (0, 0, [0]))
+4366  ICAP_LIGHTSOURCE          (4, (0, 0, [4]))
+4368  ICAP_ORIENTATION          (4, (0, 0, [0, 1, 2, 3]))
+4370  ICAP_PHYSICALHEIGHT       (7, 17.0)
+4369  ICAP_PHYSICALWIDTH        (7, 11.45875)
+4383  ICAP_PIXELFLAVOR          (4, (0, 0, [0, 1]))
+257   ICAP_PIXELTYPE            (4, (2, 2, [0, 1, 2]))
+4384  ICAP_PLANARCHUNKY         (4, (0, 0, [0]))
+4386  ICAP_SUPPORTEDSIZES       (4, (0, 0, [0, 1, 2, 3, 4, 5, 9, 11, 13, 38, 6]))
+4387  ICAP_THRESHOLD            {'StepSize': 1, 'DefaultValue': 128, 'CurrentValue': 128, 'MaxValue': 255, 'MinValue': 0}
+258   ICAP_UNITS                (4, (0, 0, [0, 1, 5]))
+259   ICAP_XFERMECH             (4, (1, 1, [2, 0, 1]))
+4374  ICAP_XNATIVERESOLUTION    (7, 1200.0)
+4376  ICAP_XRESOLUTION          {'StepSize': 1, 'DefaultValue': 72, 'CurrentValue': 72, 'MaxValue': 4800, 'MinValue': 50}
+4388  ICAP_XSCALING             {'StepSize': 42926080, 'DefaultValue': 1, 'CurrentValue': 1, 'MaxValue': 2, 'MinValue': -2147483648}
+4375  ICAP_YNATIVERESOLUTION    (7, 1200.0)
+4377  ICAP_YRESOLUTION          {'StepSize': 1, 'DefaultValue': 72, 'CurrentValue': 72, 'MaxValue': 4800, 'MinValue': 50}
+4389  ICAP_YSCALING             {'StepSize': 42926080, 'DefaultValue': 1, 'CurrentValue': 1, 'MaxValue': 2, 'MinValue': -2147483648}
+4433  ICAP_AUTOMATICDESKEW      (6, 0)
