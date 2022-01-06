@@ -3,9 +3,6 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/venv2" />
-      <excludeFolder url="file://$MODULE_DIR$/venv2-x86" />
-      <excludeFolder url="file://$MODULE_DIR$/venv39" />
       <excludeFolder url="file://$MODULE_DIR$/venv39-32" />
       <excludeFolder url="file://$MODULE_DIR$/venv27-32" />
     </content>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/twain-test.iml" filepath="$PROJECT_DIR$/.idea/twain-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/auto-scan.iml" filepath="$PROJECT_DIR$/.idea/auto-scan.iml" />
     </modules>
   </component>
 </project>
