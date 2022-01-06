@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 import twain
 from pyScanLib import pyScanLib
 
@@ -24,7 +26,7 @@ def psl_example():
     # Below statement must be run after setScanner()
     ls.setDPI(100)
 
-    print ls.getScannerSize() # (left,top,width,height)
+    print(ls.getScannerSize())  # (left,top,width,height)
 
     # Set Area in Pixels
     # width = ls.pixelToInch(128)
