@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
 
+import pycubelut_modified as pcl
+
 
 # Source: https://www.pyimagesearch.com/2017/02/20/text-skew-correction-opencv-python/
 def calibrate(img, threshold_val=100, debug=False):
@@ -43,4 +45,7 @@ def calibrate(img, threshold_val=100, debug=False):
     return Image.fromarray(rotated)
 
 def threshold(img):
-    raise NotImplementedError
+    lut = pcl.CubeLUT('threshold.cube')
+    img = pcl.process_image(img, 0, lut, 0)
+    img = img.convert('L')
+    return img
